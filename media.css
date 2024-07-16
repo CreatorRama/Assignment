@@ -1,0 +1,120 @@
+@media(width>=300px) and (width<=600px){
+    .main{
+        padding-left: 5px;
+    }
+    .heading-container{
+        padding-inline: 54px;
+    }
+    .para{
+        padding-inline: 66px;
+    }
+    .text-content h2{
+        font-size: 29px;
+    }
+    .btn{
+        left: 123px;
+    }
+    .main-image{
+        left: 72px;
+        top: 60px;
+    }
+    .service-section{
+        height: 149vh;
+    }
+    .service-header{
+      top: 278px;
+      left: 45px;
+  }
+    .service-para{
+        top: 429px;
+    left: -228px
+    }
+    .image-container {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start; 
+      margin-inline: -363px;
+      margin-block: 589px;
+      height: 45vh;
+      width: auto;
+      overflow-x: auto;
+      overflow-y: hidden;
+      white-space: nowrap;
+      scroll-snap-type: x mandatory;
+    }
+  
+   
+    .read-image{
+
+        width: 170px;
+    }
+    .image, .read-image {
+      flex: 0 0 auto;
+      margin-right: 10px; /* Adjust margin between items */
+      scroll-snap-align: center;
+  }
+    .read-image img{
+        left: 42px;
+    }
+    .read-content h4{
+      font-size: 12px;
+    }
+    .read-btn{
+      left: 10px;
+    }
+    .image img{
+        width: 112px;
+        height: 277px;
+    }
+  .image{
+    display: inline-block;
+    vertical-align: top;
+    width: 80%; 
+    height: 0vh;
+  }
+  .dot-slider{
+    position: absolute;
+    bottom: -738px;
+    left: 24px;
+  }
+  .dot-slider img{
+    margin-bottom: -1px;
+  }
+  .image:nth-child(2) {
+    margin-left: -174px;
+}
+  .about-images{
+    padding-inline: 26px;
+  }
+  .para1{
+    width: 150px;
+    height: 129px;
+  }
+  .about-project-image img{
+    width: 171px;
+    height: 406px;
+  }
+  .about-feedback h3{
+    margin-inline: 49px;
+  }
+.client-feed{
+    margin-block: 49px;
+}
+.client-para p{
+    width: 269px;
+}
+.client-text h3{
+  font-size: 25px;
+}
+.client-para{
+  margin-top: 45px;
+}
+.foot-image{
+    flex-direction: column;
+    align-items: normal;
+    justify-content: space-around;
+    padding-inline: 10px;
+}
+    }
+
+    
